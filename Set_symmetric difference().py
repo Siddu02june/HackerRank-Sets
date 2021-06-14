@@ -1,4 +1,5 @@
 #Set_symmetric difference() 
+
 E = int(input())
 English = list(input().split()[:E])
 F = int(input())
