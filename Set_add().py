@@ -1,4 +1,5 @@
 #Set_add()
+
 N = int(input())
 countries = set()
 for i in range(N):
