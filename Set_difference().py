@@ -1,4 +1,4 @@
-#Set .difference() Operation
+#Set_difference()
 
 E = int(input())
 English = list(input().split()[:E])
