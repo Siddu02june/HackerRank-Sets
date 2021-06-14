@@ -1,4 +1,5 @@
-#Set .discard(), .remove() & .pop()
+#Set_discard()_remove()_pop()
+
 n = int(input())
 s = set(map(int,input().split()[:n]))
 
