@@ -1,4 +1,5 @@
-#Set .intersection() Operation
+#Set_intersection()
+
 E = int(input())
 English = list(input().split()[:E])
 F = int(input())
